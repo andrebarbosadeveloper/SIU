@@ -1,0 +1,11 @@
+10
+1,Andre,admin
+2,Ruben,admin
+3,Rui,basic
+4,Tiago,basic
+5,Pedro,basic
+6,Diogo,basic
+7,Joaquim,admin
+8,Joao,basic
+9,Miguel,admin
+10,Jose,admin
